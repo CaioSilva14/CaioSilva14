@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=700&lines=Hello+World!+I'm+Caio+Silva+%F0%9F%91%8B%F0%9F%8F%BD;Back-end+Developer;TypeScript+%7C+C%23+%7C+PostgreSQL;Building+scalable+solutions+%F0%9F%9A%80" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=900&lines=Hello+World!+I%C2%B4m+Caio+Martins;ADVPL;SQL+SERVER;PROTHEUS" />
 
 💻 Back-end Developer focused on building scalable and efficient solutions.  
 📘 Currently studying and improving my skills in:
