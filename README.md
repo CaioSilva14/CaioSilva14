@@ -3,22 +3,21 @@
 💻 Back-end Developer focused on building scalable and efficient solutions.  
 📘 Currently studying and improving my skills in:
 
-- ⚡ TypeScript
+- ⚡ Protheus
 - 🔷 C#
-- 🐘 PostgreSQL
-- 🔌 REST APIs
-- 🌱 Clean Code & Best Practices
+- 🐘 SQL Server
+- 🔌 REST API
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img alt="TypeScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="PostgreSQL" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img  alt="TOTVS" width="45" alt="icon-icons" src="https://github.com/user-attachments/assets/af508e29-abfd-4ace-9331-98d1f4a940d9" />
   <img alt="C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt="Postman" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <img alt="SQL Server" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
   <img alt="Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Postman" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 </p>
 
 ---
