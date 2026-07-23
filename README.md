@@ -1,3 +1,8 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=900&lines=Hello+World!+I%C2%B4m+Caio+Martins;ADVPL;SQL+SERVER;PROTHEUS" />
 
 💻 Back-end Developer focused on building scalable and efficient solutions.  
@@ -12,13 +17,24 @@
 
 ## 🚀 Tech Stack
 
-<p align="left">
-  <img  alt="TOTVS" width="45" alt="icon-icons" src="https://github.com/user-attachments/assets/af508e29-abfd-4ace-9331-98d1f4a940d9" />
-  <img alt="C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt="SQL Server" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-  <img alt="Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Postman" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-</p>
+<div data-importer="techs" align="left">
+  <img src="https://github.com/user-attachments/assets/af508e29-abfd-4ace-9331-98d1f4a940d9" height="40" alt="TOTVS logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" alt="microsoft sql server logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+  <img width="12" />
+
+</div>
+
 
 ---
 
